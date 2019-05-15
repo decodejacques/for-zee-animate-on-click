@@ -1,0 +1,16 @@
+body {
+    background-color: #bbb;
+    margin: 0;
+}
+
+.toggled-div {
+    opacity: 0.5
+}
+
+.untoggled-div {
+    opacity: 1
+}
+
+.animated-div {
+    transition: opacity 1s
+}
